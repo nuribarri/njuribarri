@@ -1,5 +1,4 @@
-# njuribarri
+# njuribarri.com 
 
-Website Portfolio
+Nathaniel Uribarri Portfolio: www.njuribarri.com/portfolio
 
-Adapted from Tooplate.com
