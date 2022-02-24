@@ -1,4 +1,4 @@
-# njuribarri.com 
+# Nathaniel Joseph Uribarri
 
-Nathaniel Uribarri Portfolio: www.njuribarri.com/portfolio
+Nathaniel's Portfolio: www.njuribarri.com/portfolio
 
